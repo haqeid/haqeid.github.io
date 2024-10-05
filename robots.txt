@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haqeid.github.io/HzB/sitemap.HzB.gz
